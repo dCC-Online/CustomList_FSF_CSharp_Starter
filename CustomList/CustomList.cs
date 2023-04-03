@@ -33,7 +33,7 @@ namespace CustomList
         {
             //If 'item' exists in the 'items' array, remove its first instance
             //Any items coming after the removed item should be shifted down so there is no empty index.
-            //If 'item' waas removed, return true. If no item was removed, return false.
+            //If 'item' was removed, return true. If no item was removed, return false.
             return false;
         }
 
